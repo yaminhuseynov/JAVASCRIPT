@@ -3,7 +3,7 @@ let Abschluss = "Universität";
 
 if (Alt >=20 && Abschluss =="Universität"){
 
-    console.log("Gültig, kann Führerschein bekommen")
+    console.log("kann Führerschein bekommen")
 }
     
 
