@@ -3,7 +3,7 @@ let year = 2016;
 let price = 599;
 let money = 600;
 
-let result = mobile + year + price + money;
+let result;
 
 if (result){
   if (money > price && year > 2015){
