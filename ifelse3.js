@@ -12,7 +12,7 @@ if (result){
   else {
     console.log("You have not enough money")
   }
-  else if (money > price && year < 2015){
+  if (money > price && year < 2015){
     console.log("Year is too old");
   }
 }
