@@ -14,5 +14,5 @@ let i = 5;
   }
 
 
-// wenn i ist 5, stoppt die Terminal. Außer 5 dauert Terminal für immer.
+// wenn i 5 ist, stoppt die Terminal. Außer 5 dauert Terminal für immer.
 //Code by Yamin Huseynov. 
